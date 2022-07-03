@@ -1,0 +1,90 @@
+/*
+ *	Aplication mini sidebar fixed.....
+ */
+.vertical-collpsed .vertical-menu {
+    position: fixed !important;
+    width: 70px !important;
+    z-index: 5;
+}
+
+ 
+.metismenu a:hover {
+    text-decoration: none;
+    background-color: #f7f7f7;
+}
+
+.popover{
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 0.5rem 1rem !important;
+}
+
+.circle-btn{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.btn-icon {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    font-size: .9375rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+
+.btn-outline-orange {
+    color: #fb8c00;
+    border-color: #fb8c00;
+}
+
+.btn-outline-info {
+    color: #3bc3e9;
+    border-color: #3bc3e9;
+}
+
+.btn-outline-danger {
+    color: #ea553d;
+    border-color: #ea553d;
+}
+
+.note-editor.note-frame .note-editing-area .note-codable, .note-editor.note-frame .note-editing-area .note-editable {
+    color: #000000 !important;
+    background-color: transparent;
+}
+
+
+/*
+ *  Breadcrumb css
+ */
+
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1.4rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    height: 55px;
+    font-size: 16px;
+    background-color: transparent !important;
+}
+
+.breadcrumb-item>a {
+    color: #06c5b4 !important;
+}
+
+.breadcrumb-item>a:hover {
+    color: #000000 !important;
+}

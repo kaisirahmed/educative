@@ -1,0 +1,11 @@
+
+<svg width="375px" height="270px" viewBox="0 0 375 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="image-upload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="tracksImage" transform="translate(3.000000, 2.000000)" stroke="#020202" stroke-width="7.19999957">
+            <polygon id="Path" fill="#93C2E5" fill-rule="nonzero" points="184.63961 131.568 0.961038961 57.432 184.63961 2.136 368.342208 57.432"></polygon>
+            <polyline id="Path" points="368.342208 99.36 184.63961 173.496 0.961038961 99.36"></polyline>
+            <polyline id="Path" points="368.342208 146.4 184.63961 220.56 0.961038961 146.4"></polyline>
+            <polyline id="Path" points="368.342208 189.84 184.63961 263.976 0.961038961 189.84"></polyline>
+        </g>
+    </g>
+</svg>
